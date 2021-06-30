@@ -34,7 +34,6 @@ module.exports = {
     entry: {
 		// header
 		'header' : commonComponents,
-		// Clinic
 
 		// Auth
         'login': './auth/pages/login.js',
